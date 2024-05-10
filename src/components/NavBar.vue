@@ -4,11 +4,11 @@
             <router-link class="flex items-center text-3xl font-bold font-sans" :to="homePagePath"
                 ><img
                     alt="logo"
-                    src="/img/icons/logo.svg"
+                    src="/img/icons/chakra.png"
                     height="32"
                     width="32"
                     class="mr-[-0.6rem] w-10"
-                />iped</router-link
+                />yt</router-link
             >
         </div>
         <div class="search-container lt-md:hidden">
