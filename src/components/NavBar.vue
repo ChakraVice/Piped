@@ -8,7 +8,7 @@
                     height="32"
                     width="32"
                     class="mr-[-0.6rem] w-10"
-                />yt</router-link
+                />ㅤ</router-link
             >
         </div>
         <div class="search-container lt-md:hidden">
